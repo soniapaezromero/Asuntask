@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paez_Sonia_AsyncTask</string>
+    <string name="hilos_y_tareas_as_ncronas_con_android_sonia_p_ez">Hilos y tareas asíncronas con Android.Sonia Páez</string>
+    <string name="tiempo_de_descarga"/>
+    <string name="descargar">Descargar</string>
+    <string name="web"/>
+    <string name="descarga_de_un_fichero">Descargar ficheros esn Asyntask</string>
+    <string name="d_lares"/>
+    <string name="labeldolares">Dólares</string>
+    <string name="euros"/>
+    <string name="labeleuros">Euros</string>
+    <string name="d_lares_aeuros">Dolares a Euros</string>
+    <string name="euros_a_d_lares">Euros a Dolares</string>
+    <string name="convertir">Convertir</string>
+</resources>
